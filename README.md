@@ -1,4 +1,4 @@
-# 📌 Exercícios de Computação Gráfica com OpenGL  
+ # 📌 Exercícios de Computação Gráfica com OpenGL  
 
 ## 🎯 Objetivo  
 Este projeto tem como objetivo aplicar os conceitos de OpenGL em C++, por meio do desenvolvimento de uma série de exercícios práticos voltados à criação e manipulação de gráficos 2D, incluindo a implementação de formas geométricas, animações e elementos de interatividade.
@@ -8,14 +8,9 @@ Este projeto tem como objetivo aplicar os conceitos de OpenGL em C++, por meio d
 ## ⚠️ Dificuldades Encontradas e Soluções  
 
 ### 🔹 Controle de Limites na Tela  
-  Os objetos (quadrado e círculo) poderiam sair dos limites da janela sem restrições  
-  Solução: Adicionados limites no eixo X (Exercício 4) e reinício da posição no eixo Y (Exercício 3)  
-  Mantém os objetos visíveis  
+Inicialmente, os objetos (quadrado e círculo) podiam sair dos limites da janela sem restrições. Como solução, foram adicionados limites no eixo X, conforme implementado no Exercício 4, e um reinício da posição no eixo Y, como apresentado no Exercício 3. Essas modificações garantem que os objetos permaneçam visíveis durante a execução.
 
 
 
 ## 📋 Instruções para Executar  
-Certifique-se de ter uma biblioteca OpenGL instalada (ex.: GLUT ou FreeGLUT)  
-Compile cada arquivo .cpp com um compilador C++ (ex.: g++ -o exercicio1 exercicio1.cpp -lglut -lGLU -lGL)  
-Execute o programa gerado (ex.: ./exercicio1)  
-Submeta os arquivos .cpp no Google Classroom conforme solicitado  
+Para a execução dos exercícios, é necessário ter uma biblioteca OpenGL instalada, como GLUT ou FreeGLUT. Cada arquivo .cpp deve ser compilado utilizando um compilador C++, por exemplo, com o comando g++ -o exercicio1 exercicio1.cpp -lglut -lGLU -lGL. Após a compilação, o programa gerado pode ser executado com ./exercicio1. Por fim, os arquivos .cpp devem ser submetidos no Google Classroom conforme as instruções fornecidas.
