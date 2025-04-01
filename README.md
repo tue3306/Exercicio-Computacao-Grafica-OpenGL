@@ -1,10 +1,8 @@
 # 📌 Exercícios de Computação Gráfica com OpenGL  
 
 ## 🎯 Objetivo  
-Este projeto tem como objetivo aplicar os conceitos de OpenGL em C++  
-Desenvolver uma série de exercícios práticos para criar e manipular gráficos 2D  
-Incluir formas geométricas, animações e interatividade  
-Conforme especificado na lista de exercícios da disciplina de Computação Gráfica do Centro Universitário de Brasília  
+Este projeto tem como objetivo aplicar os conceitos de OpenGL em C++, por meio do desenvolvimento de uma série de exercícios práticos voltados à criação e manipulação de gráficos 2D, incluindo a implementação de formas geométricas, animações e elementos de interatividade.
+
 
 
 ## ⚠️ Dificuldades Encontradas e Soluções  
