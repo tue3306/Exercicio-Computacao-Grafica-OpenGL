@@ -9,7 +9,7 @@ Conforme especificado na lista de exercícios da disciplina de Computação Grá
 
 ## ⚠️ Dificuldades Encontradas e Soluções  
 
-### - 🔹 Controle de Limites na Tela  
+### 🔹 Controle de Limites na Tela  
   Os objetos (quadrado e círculo) poderiam sair dos limites da janela sem restrições  
   Solução: Adicionados limites no eixo X (Exercício 4) e reinício da posição no eixo Y (Exercício 3)  
   Mantém os objetos visíveis  
